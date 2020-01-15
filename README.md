@@ -4,9 +4,9 @@
 
 This is the repository holding all formatted scripts used in bioinformatics analysis for:
 
-Differential processing and localization of human Nocturnin controls metabolism of mRNA and nicotinamide dinucleotide metabolites
+**Differential processing and localization of human Nocturnin controls metabolism of mRNA and nicotinamide dinucleotide metabolites**
 Elizabeth T. Abshire, Kelsey L. Hughes, Rucheng Diao, Sarah Pearce, Raymond C. Trievel, Joanna Rorbach, Peter L. Freddolino, Aaron C. Goldstrohm
-bioRxiv 2020.01.12.903534; doi: https://doi.org/10.1101/2020.01.12.903534
+*bioRxiv* 2020.01.12.903534; doi: https://doi.org/10.1101/2020.01.12.903534
 
 Detailed methods and statistics are described in the Materials and Methods in the paper. Briefly, raw RNA-seq data was quality controlled and sequencing reads were trimming accordingly. The data was then aligned to a custom reference genome containing human reference genome, ERCC, and overexpression components. The alignment was quantified and analyzed for differential expression and functional enrichment.
 
