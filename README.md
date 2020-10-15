@@ -34,4 +34,5 @@ In all codes, the user name of submitter/analyzer has been replaced by string `u
 + `noct-06-notchedBox.R`: script to plot notched boxplot for expression change levels of each mitochondria-related ccategory (Figure S3);
 + `noct-06-totalExonLength.R`: script to query and calculate the total exon length for each gene for normalization in TPM calculation (`noct-06-tpm.R`);
 + `noct-06-tpm.R`: calculate the TPM of gene expression (Supporting Information Table S1).
++ `noct-07-calcZLFC.R`: calculate the z-scores of log2-fold-changes of gene expression from DESeq2 result, to use as a more robust input for GO term analysis using iPAGE (updated during revision)
 + `README.md`
